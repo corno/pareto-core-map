@@ -1,6 +1,6 @@
 {
   "name": "pareto-core-map",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "license": "ISC",
   "description": "a pareto package for writing data mappings/transformations",
   "author": "Corno",
